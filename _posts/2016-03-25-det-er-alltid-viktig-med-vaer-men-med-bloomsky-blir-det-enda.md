@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Det er alltid viktig med vær, men med BloomSky blir det enda bedre.'
-datePublished: '2016-03-25T23:35:02.318Z'
-dateModified: '2016-03-25T23:34:43.536Z'
+datePublished: '2016-03-25T23:36:11.752Z'
+dateModified: '2016-03-25T23:35:59.985Z'
 author: []
 title: 'Det er alltid viktig med vær, men med BloomSky blir det enda bedre. '
 sourcePath: _posts/2016-03-25-det-er-alltid-viktig-med-vaer-men-med-bloomsky-blir-det-enda.md
@@ -24,8 +24,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8d9890f-0ecd-4086-a947-a18cfae3984c.jpg)
-
-# 
 
 # Det er alltid viktig med vær, men med BloomSky blir det enda bedre. 
 

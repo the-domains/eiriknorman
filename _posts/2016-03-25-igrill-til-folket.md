@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: iGrill til folket
-datePublished: '2016-03-25T15:34:33.776Z'
-dateModified: '2016-03-25T15:34:06.261Z'
+datePublished: '2016-03-25T15:48:46.460Z'
+dateModified: '2016-03-25T15:34:36.076Z'
 title: ''
 author: []
 authors: []
@@ -35,6 +35,8 @@ Man kan følge utviklingen på kjernetemperaturen i realtid.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7f60e8b-1df8-4301-a45d-5ac10f64b3bf.jpg)
 
 Og man kan få opp et kart som viser hvor andre griller i nærheten. iGrill må man bare ha, og den kan kjøpes hos [Jernia][0] eller direkte fra [iDivices][1]
+
+God grilling og god vår og sommer når den tid kommer.
 
 [0]: http://www.jernia.no/produkt/-/vis-produkt/EET-Europarts-iGrill-Mini-Termometer/58012284
 [1]: http://store.idevicesinc.com/igrill

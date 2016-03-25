@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Vårkonferansen til Virke eHandel
-datePublished: '2016-03-25T15:00:31.345Z'
-dateModified: '2016-03-25T14:59:12.019Z'
+description: "Vårsamlingen til Virke eHandel.\_Under årets Vårsamling for Virke eHandel ble jeg invitert for å snakke om hva vi tror kommer til å bli vesentlig for handelen fremover. "
+datePublished: '2016-03-25T15:01:50.340Z'
+dateModified: '2016-03-25T15:01:49.589Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-25-varkonferansen-til-virke-ehandel.md
@@ -22,9 +22,9 @@ url: varkonferansen-til-virke-ehandel/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4872688f-f416-43a2-89d5-c6adb9d1f87d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36fd0336-6564-499f-ac93-823af400a1a8.jpg)
 
-Vårkonferansen til Virke eHandel. Under årets Vårkonferanse for Virke eHandel ble jeg invitert til å snakke om hva vi tror kommer til å bli vesentlig for handelen fremover. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d72ccad-866b-4e35-aed4-157ee2d62450.jpg)
+Vårsamlingen til Virke eHandel. Under årets Vårsamling for Virke eHandel ble jeg invitert for å snakke om hva vi tror kommer til å bli vesentlig for handelen fremover. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d72ccad-866b-4e35-aed4-157ee2d62450.jpg)
 
 Jeg har latt meg inspirere av det jeg så og opplevde i New York i januar under NRFs The Big Show. Dette skal være en av de største retail konferansene i verden, og med sine over 35.000 deltagere og over 600 utstillere er det nok i alle fall ikke så langt unna.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83763bda-16b0-4214-9316-0f9d2b48fd59.jpg)

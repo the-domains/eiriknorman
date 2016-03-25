@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Det er alltid viktig med vær, men med BloomSky blir det enda bedre.'
-datePublished: '2016-03-25T22:45:40.319Z'
-dateModified: '2016-03-25T22:38:39.256Z'
+datePublished: '2016-03-25T22:56:51.805Z'
+dateModified: '2016-03-25T22:56:09.683Z'
 author: []
 title: 'Det er alltid viktig med vær, men med BloomSky blir det enda bedre. '
 sourcePath: _posts/2016-03-25-det-er-alltid-viktig-med-vaer-men-med-bloomsky-blir-det-enda.md
@@ -30,7 +30,8 @@ _type: Article
 For vel et år siden var jeg på et foredrag i Chicago hvor [James McQuivey][0] fra Forrester Research snakket. Et av eksemplene hans var værstasjonen fra [BloomSky.com][1] som jeg måtte skaffe meg og få montert på taket på hytta
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a16e67bf-ece4-4125-b424-04908561f255.jpg)
 
-Via karttjenesten til BloomSky kan du selv sjekke ut være i nærheten av der du er - hvis noen der har en BloomSky da. 
+Via [karttjenesten][2] til BloomSky kan du selv sjekke ut være i nærheten av der du er - hvis noen der har en BloomSky da. 
 
 [0]: http://blogs.forrester.com/james_mcquivey
 [1]: bloomsky.com
+[2]: https://map.bloomsky.com/

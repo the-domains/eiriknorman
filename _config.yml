@@ -1,7 +1,7 @@
 name: eiriknorman
 favicon: null
-layout_spectrum: 0.11360754165798426
-typography_spectrum: 0.4304314337205142
+layout_spectrum: 0.88607
+typography_spectrum: 0.15671
 title: eiriknorman
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5024432411883026
+    - '#7c69df'
+    - '#070707'
+    - '#c4cfe5'
+    - '#4e4037'
+    - '#6126e4'
+  brandStrength: 0.8125
   lightness: 0.13696464244276285
-  saturation: 0.5791530241258442
-  rhythmicContrast: 0.0641984804533422
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []

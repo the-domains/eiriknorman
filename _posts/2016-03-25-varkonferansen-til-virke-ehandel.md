@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Vårkonferansen til Virke eHandel
-datePublished: '2016-03-25T14:55:12.111Z'
-dateModified: '2016-03-25T14:54:55.299Z'
+datePublished: '2016-03-25T15:00:31.345Z'
+dateModified: '2016-03-25T14:59:12.019Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-25-varkonferansen-til-virke-ehandel.md
@@ -24,10 +24,9 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4872688f-f416-43a2-89d5-c6adb9d1f87d.jpg)
 
-Vårkonferansen til Virke eHandel
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d72ccad-866b-4e35-aed4-157ee2d62450.jpg)
+Vårkonferansen til Virke eHandel. Under årets Vårkonferanse for Virke eHandel ble jeg invitert til å snakke om hva vi tror kommer til å bli vesentlig for handelen fremover. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d72ccad-866b-4e35-aed4-157ee2d62450.jpg)
 
-Under årets Vårkonferanse for Virke eHandel ble jeg invitert til å snakke om hva vi tror kommer til å bli vesentlig for handelen fremover. Jeg har latt meg inspirere av det jeg så og opplevde i New York i januar under NRFs The Big Show. Dette skal være en av de største retail konferansene i verden, og med sine over 35.000 deltagere og over 600 utstillere er det nok i alle fall ikke så langt unna.
+Jeg har latt meg inspirere av det jeg så og opplevde i New York i januar under NRFs The Big Show. Dette skal være en av de største retail konferansene i verden, og med sine over 35.000 deltagere og over 600 utstillere er det nok i alle fall ikke så langt unna.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83763bda-16b0-4214-9316-0f9d2b48fd59.jpg)
 
 Det viktigste stikkordet fra konferansen (også understøttet av bla. forrester.com) er digitalisering. Digitalisering av butikker og organisasjoner, sammen smeltingen av det digitale og den fysiske verden er i full gang og vi kan ikke stå utenfor. En av forqdragsholderene under NRF sa "i valget mellom å være on eller off-line, er det beste å velge begge deler". Selv Amazon har jo nå annonsert at de skal åpne mer enn 300 fysiske butikker. Utfordringen man som næringsdrivende har, er at kundene våre vil alltid sammenligne oss med den beste kundeopplevelsen de har hatt ett annet sted, uavhengig av hvor og med hvem det var.
